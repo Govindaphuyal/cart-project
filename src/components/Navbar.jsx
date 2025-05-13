@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="px-4">
         <div className="flex items-center justify-between">
           <div className="flex shrink-0">
-            <Link to="/" className="flex items-center">
+            <Link to="/add" className="flex items-center">
               <img
                 className="h-7 w-auto"
                 src="https://static.vecteezy.com/system/resources/previews/015/018/215/large_2x/shopping-cart-icon-cartoon-style-vector.jpg"
